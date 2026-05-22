@@ -1,6 +1,6 @@
 # ForgeTools
 
-A collection of web-based tools for **Supreme Commander: Forged Alliance Forever (FAF)** — hosted at [seraphimnoob01.github.io/ForgeTools](https://seraphimnoob01.github.io/ForgeTools/).
+A collection of web-based tools for **Supreme Commander: Forged Alliance Forever (FAF)** — hosted at [seraphimnoob01.github.io/ForgeTools](https://timmasalme.github.io/ForgeTools/).
 
 ---
 
